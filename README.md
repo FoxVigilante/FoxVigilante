@@ -1,9 +1,33 @@
-var intrests = ["programming,", "Cyber Security and hack stuff,", "Coffee,", "yo mom,", "learning new languages... i mean new languages both as programming languages and languages,", "uhhh mayonnaise?"]
+```
+var intrests = [
+"programming, ",
+"Cyber Security, ",
+"Coffee, ",
+"yo mom, ",
+"learning new languages... i mean new languages both as programming languages and languages, ",
+"uhhh mayonnaise? ",
+"Men, ",
+"jumping frogs, ",
+"rough se, ",
+"parkour, ",
+]
+```
 
-Hi ig
-uhhh i can code in HTML,CSS (not programming lang yk), JS(JavaScript), PHP
-Making a WebSite for my gf to riiz her up
-idk what "how to reach me" means but i think it means how to contact with me... discord... only discord... hackergod1212... it's my... uhh.. idk... id ig
-I'm... He/Him... just a normal.. man... boy actually i'm not grown still....
-Alright fun fact is idk how to hack and the 'hackergod1212' username its just a story with my brother that when i see it i remember that day.......... i'm 14yo btw..
-uhhhhhh why am i using 'console.log' everywhere?... well i don't have any brain
+# Hi... I guess
+uhhh i can code in
++ JS(JavaScript)
++ PHP
++ Python(rookie lang-)
++ C#
+
+mainly C# these days but I may change back to being a backend developer for the money
+and I don't have to mention that many PHP programmers know how to deal with database patterns so yeah.
+but hey I ain't a professional in any tho-
+
+for contacting me, please reach out for my discord only because yes, "perisian-prince"
+
+He/Him... just boy...
+
+fifteen years old
+
+uhh why am i using 'Console.WritrLine()' everywhere?... well i don't have any brain that's why boyh
