@@ -1,13 +1,13 @@
 ```
 var intrests = [
-"programming, ",
-"Cyber Security, ",
-"Coffee, ",
-"learning new languages... i mean new languages both as in programming languages and languages, ",
+"programming ",
+"Cyber Security ",
+"Coffee ",
+"learning new languages... i mean new languages both as in programming languages and languages ",
 "uhhh mayonnaise? ",
-"Men, ",
-"jumping frogs, ",
-"parkour, "
+"Men ",
+"jumping frogs ",
+"parkour "
 ]
 ```
 
