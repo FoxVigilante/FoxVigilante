@@ -3,31 +3,22 @@ var intrests = [
 "programming, ",
 "Cyber Security, ",
 "Coffee, ",
-"yo mom, ",
-"learning new languages... i mean new languages both as programming languages and languages, ",
+"learning new languages... i mean new languages both as in programming languages and languages, ",
 "uhhh mayonnaise? ",
 "Men, ",
 "jumping frogs, ",
-"rough se, ",
-"parkour, ",
+"parkour, "
 ]
 ```
 
-# Hi... I guess
-uhhh i can code in
-+ JS(JavaScript)
-+ PHP
-+ Python(rookie lang-)
-+ C#
+# Hiii! ^^
+I'm a:
++ Front-End Dev
++ Back-End dev (learning)
++ C# Programmer
 
-mainly C# these days but I may change back to being a backend developer for the money
-and I don't have to mention that many PHP programmers know how to deal with database patterns so yeah.
-but hey I ain't a professional in any tho-
 
-for contacting me, please reach out for my discord only because yes, "perisian-prince"
-
-He/Him... just boy...
-
-fifteen years old
-
-uhh why am i using 'Console.WritrLine()' everywhere?... well i don't have any brain that's why boyh
+for contacting me, please reach out for my discord only because yes. "perisian-prince" is my uh ID?
+He/Him... just boy... cute one :3
+fifteen
+uhh why am i using 'Console.WritrLine()' everywhere?... well that's because I'm not blessed with any kinds of brain. that's why boyh.
